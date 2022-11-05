@@ -1,0 +1,5 @@
+--HISTORIAS DE USUARIO
+https://docs.google.com/document/d/1MW2VwTTpG6F4bXNrujxoOOCClt2bmx-KHxBn308gW8Q/edit?usp=sharing
+
+--ARQUITECTURA
+https://docs.google.com/document/d/1GR4JtA5Y2w4TF24rXOseLMo8eQxGw_5cPazKH62Bt-k/edit?usp=sharing
